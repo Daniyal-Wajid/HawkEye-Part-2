@@ -1,0 +1,58 @@
+export const students = [
+  {
+    id: "STU001",
+    name: "Ahmed Khan",
+    department: "Computer Science",
+    semester: "Semester 1",
+    avatar: "https://i.pravatar.cc/150?img=12",
+  },
+  {
+    id: "STU002",
+    name: "Fatima Ahmed",
+    department: "Electrical Engineering",
+    semester: "Semester 2",
+    avatar: "https://i.pravatar.cc/150?img=32",
+  },
+  {
+    id: "STU003",
+    name: "Muhammad Ali",
+    department: "Mechanical Engineering",
+    semester: "Semester 3",
+    avatar: null,
+  },
+  {
+    id: "STU004",
+    name: "Ayesha Hassan",
+    department: "Civil Engineering",
+    semester: "Semester 4",
+    avatar: "https://i.pravatar.cc/150?img=47",
+  },
+  {
+    id: "STU005",
+    name: "Ali Malik",
+    department: "Computer Science",
+    semester: "Semester 2",
+    avatar: "https://i.pravatar.cc/150?img=5",
+  },
+  {
+    id: "STU006",
+    name: "Zainab Hussain",
+    department: "Computer Science",
+    semester: "Semester 1",
+    avatar: "https://i.pravatar.cc/150?img=16",
+  },
+  {
+    id: "STU007",
+    name: "Hassan Shah",
+    department: "Electrical Engineering",
+    semester: "Semester 3",
+    avatar: "https://i.pravatar.cc/150?img=20",
+  },
+  {
+    id: "STU008",
+    name: "Maryam Mirza",
+    department: "Mechanical Engineering",
+    semester: "Semester 4",
+    avatar: "https://i.pravatar.cc/150?img=28",
+  },
+];
